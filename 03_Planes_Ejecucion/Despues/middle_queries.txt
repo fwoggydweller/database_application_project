@@ -1,0 +1,53 @@
+7.
+Operation	select
+Rows	4
+Total Cost	2
+cpu_cost	48353370
+io_cost	1
+bytes	64
+time	00:00:01
+
+8.
+Operation	select
+Rows	1
+Total Cost	3
+cpu_cost	48360608
+io_cost	2
+bytes	38
+time	00:00:01
+
+9.
+Operation	select
+Rows	10
+Total Cost	7
+cpu_cost	193413711
+io_cost	3
+bytes	170
+time	00:00:01
+
+10.
+Operation	select
+Rows	1
+Total Cost	4
+cpu_cost	48383182
+io_cost	3
+bytes	41
+time	00:00:01
+
+11.
+Operation	select
+Rows	2
+Total Cost	4
+cpu_cost	48381382
+io_cost	3
+bytes	48
+time	00:00:01
+
+12.
+Operation	select
+Rows	1
+Total Cost	5
+cpu_cost	96725868
+io_cost	3
+bytes	54
+time	00:00:01
